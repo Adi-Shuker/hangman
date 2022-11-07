@@ -1,0 +1,18 @@
+.selected-letter{
+    text-decoration: line-through;
+}
+.unselected-letter{
+    
+}
+.high-score{
+    color: green;
+}
+.medium-score{
+    color: orange;
+}
+.low-score{
+    color:red;
+}
+.letter{
+    margin: 3px;
+}
